@@ -31,7 +31,7 @@ function longPlaneteerCalls(words) {
 //idx is index since we are trying to find the first cheese
 
 function findTheCheese (foods) {
-  var cheese = ["banana", "cheddar", "gouda", "camembert"];
+  var cheese = ["cheddar", "banana", "gouda", "camembert"];
   
   for(var i = 0; i < foods.length; i++){
     
